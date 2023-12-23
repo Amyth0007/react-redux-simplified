@@ -1,0 +1,16 @@
+.box{
+    padding: 10px;
+    margin: 10 10 10 10;
+    display: flex;
+     flex-direction: row;
+}
+.inner{
+
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+     flex-direction: column;
+}
+
